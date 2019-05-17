@@ -1,11 +1,11 @@
-# Título del trabajo
+# Ruleta de casino
 
-Descripción breve del proyecto a realizar (2-3 frases).
+programa  de ruleta de casino para apostar en funcion del dinnero inicial deseado
 
-## Integrantes del equipo
+## Javier Sancho y Diego Huergo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Diego Huergo Pernas, diegohuergopernas
+Javier Sancho Gonzalez, javiersanchogonzalez
 
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Crear un programa de una ruleta virtual de casino que te permita hacer distintas apuestas y aumentar el saldo inicial que hayas elejido. poder repetir  las apuestas hasta que te quedes sin saldo o desees terminar de jugar.
